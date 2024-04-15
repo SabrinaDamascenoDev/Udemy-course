@@ -1,0 +1,11 @@
+ol {
+  margin-left: -40px;
+  margin-top: -20px;
+  list-style-position: inside;
+}
+
+li[value="4"]{
+  color: blue;
+}
+
+/* Write your CSS below, don't change the rules above. */
