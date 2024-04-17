@@ -1,0 +1,19 @@
+*{
+    background-color: whitesmoke;
+    
+    
+}
+
+
+.retangulo{
+    width: 400px;
+    height: 400px;
+    float: left;
+}
+.retangulo2{
+    width: 200px;
+    height: 200px;
+    float: right;
+    display: flex;
+}
+
